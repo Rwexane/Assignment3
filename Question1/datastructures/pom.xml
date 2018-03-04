@@ -31,5 +31,10 @@
           <artifactId>junit</artifactId>
           <version>RELEASE</version>
       </dependency>
+      <dependency>
+          <groupId>za.ac.cput.datastructures</groupId>
+          <artifactId>datastructures</artifactId>
+          <version>1.0-SNAPSHOT</version>
+      </dependency>
   </dependencies>
 </project>

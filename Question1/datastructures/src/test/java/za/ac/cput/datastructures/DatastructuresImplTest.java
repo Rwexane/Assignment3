@@ -1,8 +1,9 @@
-package za.ac.cput.datastructures.Impl;
+package za.ac.cput.datastructures;
 
 import org.junit.Assert;
 import org.junit.Test;
 import za.ac.cput.datastructures.Datastructures;
+import za.ac.cput.datastructures.Impl.DatastructuresImpl;
 
 public class DatastructuresImplTest
 {
